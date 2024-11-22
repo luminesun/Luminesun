@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  
+![](https://64.media.tumblr.com/4adbb946f653c1954d2b2221d0cf51d8/96772682bf672e8b-b3/s1280x1920/0cc6b471ad00f07167d584fa7b538f55431214b8.pnj)
 
-<!--
-**luminesun/Luminesun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+𝕷ᥙmіᥒᥱㅤ ᥆r ㅤ𝕷ᥙmі
 
-Here are some ideas to get you started:
+𝕾һᥱ ✮ 𝕳ᥱr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+𝕸 і ᥒ ᥆ rㅤ✮ㅤ1 6 ─ 1 7
+
+---
+
+ᵍʳᵖʰ ᵇʸ [ᶜᵒⁿᵗᵉᵐᵖᵗⁱˢᵐ](https://www.tumblr.com/contemptism) ᵖᶠᵖ ᵇʸ [ᵖ³⁻ⁿᵍ](https://www.tumblr.com/p3-ng-archived)
+
+ᴹᵃᵈᵉ ᵇʸ [ʳᵒˢᵉ](https://github.com/FurinaTheFountain)
